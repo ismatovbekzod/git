@@ -1,2 +1,1 @@
-print("HElasdasd")
-print("A")
+print("Salom")
