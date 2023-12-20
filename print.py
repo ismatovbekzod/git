@@ -1,1 +1,1 @@
-print("ASsalomu aleykum")
+print("ERROR")
